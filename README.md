@@ -1,20 +1,119 @@
-# Anuj Attri
+<div align="center">
 
-Building production-oriented AI systems across model, compiler, and hardware boundaries. Focused on inference optimization, accelerator co-design, and practical deployment workflows that bridge software and hardware.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║        ANUJ ATTRI  ·  AI Systems · Hardware · Inference          ║
+║   NPU Codesign  ·  Compiler Dev  ·  Edge Deployment  ·  RTL      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-## Current Work
+**Building AI systems that close the gap between model and metal.**  
+Production inference · Accelerator architecture · Compiler toolchains · CV deployment
 
-- Inference optimization for edge and embedded systems
-- Accelerator/NPU co-design and architecture exploration
-- FPGA prototyping and validation for custom compute pipelines
-- Benchmark automation and performance debugging tooling
-- Practical CV deployment constraints: latency, jitter, and throughput analysis
-- Model-to-hardware mapping and operator-level optimization
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anuj--attri-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/anuj-attri)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=Anuj-Attri&style=flat-square&color=brightgreen)
 
-## Engineering Focus
+</div>
 
-- Software solutions for user-oriented pain points
-- AI aware processor design and software co-development
-- Inference and architectural modeling of Transformer-based models
-- AI in Robotics, Semiconductors and Software
+---
 
+## ⚙️ What I Build
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MODEL LAYER        Quantization · Pruning · Knowledge Distill  │
+│       ↕             QAT · ViT Compression · mAP Optimization    │
+│  COMPILER LAYER     Custom ISA · Op Fusion · Instruction Stream │
+│       ↕             Graph Lowering · Kernel Scheduling          │
+│  HARDWARE LAYER     NPU RTL · FPGA Prototyping · SRAM Layout    │
+│                     PS-PL Integration · Banked Memory · ASIC    │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+I work at the intersection where software assumptions meet hardware constraints. My focus is on **latency-critical, production-grade AI systems** — from training quantized models to writing RTL and debugging timing violations on real silicon.
+
+---
+
+## 🔬 Featured Projects
+
+### [`TimingSim`](https://github.com/Anuj-Attri/TimingSim) — RISC-V Timing Simulator
+> Custom vectorized ISA path for `conv`, `dot`, and 128-FFT operations.  
+> **20% speedup** over baseline · Banked-SRAM layout · Coalesced memory loads · Trace viewer included.
+```
+Languages: Assembly, C++   |   Domain: HPC, AI Accelerators
+```
+
+---
+
+### [`VisionOptimization`](https://github.com/Anuj-Attri/VisionOptimization) — Edge CV Inference Pipeline
+> 4.47M-param ResNet with QAT achieving **94.47% CIFAR-10** accuracy — outperforms heavier ViTs.  
+> **86% ViT storage compression** · FastAPI inference endpoint · Active vision-to-text pipeline.
+```
+Languages: Python           |   Domain: Computer Vision, Inference Optimization
+```
+
+---
+
+### [`llm-visualizer`](https://github.com/Anuj-Attri/llm-visualizer) — Interactive LLM/VLM Internals Explorer
+> In-browser visualizer for transformer internals built with React, Transformers.js, and D3.  
+> Inspect attention heads, layer outputs, and token flows — no backend required.
+```
+Languages: JavaScript       |   Domain: Interpretability, LLM Tooling
+```
+
+---
+
+### [`strata`](https://github.com/Anuj-Attri/strata) — AI Model Profiler & Visualizer
+> Visualize the AI black box. Profile model behavior and surface performance bottlenecks.  
+> Bridges the gap between model training and hardware-aware deployment.
+```
+Languages: JavaScript       |   Domain: ML Observability, Profiling
+```
+
+---
+
+## 🛠️ Stack
+
+```python
+LANGUAGES   = ["Python", "C++", "CUDA", "Verilog/RTL", "Assembly x86", "MATLAB", "Bash"]
+HARDWARE    = ["FPGA (PS-PL)", "NPU RTL", "ASIC Design", "STM32", "Jetson CUDA", "RISC-V"]
+ML_STACK    = ["PyTorch", "HuggingFace", "OnnxRT", "TensorRT", "LlamaIndex", "Ollama"]
+DEPLOY      = ["FastAPI", "Docker", "Streamlit", "ONNX", "Edge/Embedded"]
+COMPILERS   = ["Custom ISA Design", "Op Fusion", "Graph Lowering", "Benchmark Automation"]
+```
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj-Attri&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Attri&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+| | |
+|---|---|
+| 🧠 | **Mitacs Globalink Research Award** — Concordia University |
+| 🏗️ | **AI Design Engineer** @ AI Chips Inc — NPU codesign, 80.7% latency reduction in production |
+| 🔬 | **IET Computers & Digital Techniques** — Expert Reviewer |
+| 🎓 | **M.S. Computer Engineering** — NYU Tandon, GPA 3.8 |
+| 🚀 | **Founder & Chairperson** — TAM-VIT, VIT University's first AI Technical Organization |
+| 🏅 | **Microsoft Learn Student Leadership Award** |
+
+---
+
+<div align="center">
+
+*"The compiler doesn't care about your abstractions. Neither do I."*
+
+`attrianuj00@gmail.com`
+
+</div>
