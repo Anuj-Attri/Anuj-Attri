@@ -101,11 +101,8 @@ COMPILERS   = ["Custom ISA Design", "Op Fusion", "Graph Lowering", "Benchmark Au
 | | |
 |---|---|
 | 🧠 | **Mitacs Globalink Research Award** — Concordia University |
-| 🏗️ | **AI Design Engineer** @ AI Chips Inc — NPU codesign, 80.7% latency reduction in production |
-| 🔬 | **IET Computers & Digital Techniques** — Expert Reviewer |
-| 🎓 | **M.S. Computer Engineering** — NYU Tandon, GPA 3.8 |
+| 🏗️ | **AI Design Engineer** @ AI Chips Inc — NPU codesign |
 | 🚀 | **Founder & Chairperson** — TAM-VIT, VIT University's first AI Technical Organization |
-| 🏅 | **Microsoft Learn Student Leadership Award** |
 
 ---
 
@@ -113,6 +110,5 @@ COMPILERS   = ["Custom ISA Design", "Op Fusion", "Graph Lowering", "Benchmark Au
 
 *"The compiler doesn't care about your abstractions. Neither do I."*
 
-`attrianuj00@gmail.com`
 
 </div>
