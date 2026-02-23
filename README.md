@@ -12,7 +12,6 @@ Production inference · Accelerator architecture · Compiler toolchains · CV de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuj--attri-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/anuj-attri)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=Anuj-Attri&style=flat-square&color=brightgreen)
 
 </div>
 
