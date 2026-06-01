@@ -2,13 +2,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║        ANUJ ATTRI  ·  AI Systems · Hardware · Inference          ║
-║   NPU Codesign  ·  Compiler Dev  ·  Edge Deployment  ·  RTL      ║
+║        ANUJ ATTRI      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 **Building AI systems that close the gap between model and metal.**  
-Production inference · Accelerator architecture · Compiler toolchains · CV deployment
+Inference Optimization · Computer Vision · AI Accelerators
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuj--attri-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/anuj-attri)
 &nbsp;
