@@ -91,18 +91,6 @@ COMPILERS   = ["Custom ISA Design", "Op Fusion", "Graph Lowering", "Benchmark Au
 
 </div>
 
----
-
-## 🏆 Highlights
-
-| | |
-|---|---|
-| 🧠 | **Mitacs Globalink Research Award** — Concordia University |
-| 🏗️ | **AI Design Engineer** @ AI Chips Inc — NPU codesign |
-| 🚀 | **Founder & Chairperson** — TAM-VIT, VIT University's first AI Technical Organization |
-
----
-
 <div align="center">
 
 
