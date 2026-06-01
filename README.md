@@ -105,7 +105,6 @@ COMPILERS   = ["Custom ISA Design", "Op Fusion", "Graph Lowering", "Benchmark Au
 
 <div align="center">
 
-*"The compiler doesn't care about your abstractions. Neither do I."*
 
 
 </div>
