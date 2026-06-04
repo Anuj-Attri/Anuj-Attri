@@ -5,31 +5,12 @@
 ║        ANUJ ATTRI      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-**Building AI systems that close the gap between model and metal.**  
 Inference Optimization · Computer Vision · AI Accelerators
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuj--attri-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/anuj-attri)
 &nbsp;
 
 </div>
-
----
-
-## ⚙️ What I Build
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  MODEL LAYER        Quantization · Pruning · Knowledge Distill  │
-│       ↕             QAT · ViT Compression · mAP Optimization    │
-│  COMPILER LAYER     Custom ISA · Op Fusion · Instruction Stream │
-│       ↕             Graph Lowering · Kernel Scheduling          │
-│  HARDWARE LAYER     NPU RTL · FPGA Prototyping · SRAM Layout    │
-│                     PS-PL Integration · Banked Memory · ASIC    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-I work at the intersection where software assumptions meet hardware constraints. My focus is on **latency-critical, production-grade AI systems** — from training quantized models to writing RTL and debugging timing violations on real silicon.
 
 ---
 
@@ -67,18 +48,6 @@ Languages: JavaScript       |   Domain: Interpretability, LLM Tooling
 > Bridges the gap between model training and hardware-aware deployment.
 ```
 Languages: JavaScript       |   Domain: ML Observability, Profiling
-```
-
----
-
-## 🛠️ Stack
-
-```python
-LANGUAGES   = ["Python", "C++", "CUDA", "Verilog/RTL", "Assembly x86", "MATLAB", "Bash"]
-HARDWARE    = ["FPGA (PS-PL)", "NPU RTL", "ASIC Design", "STM32", "Jetson CUDA", "RISC-V"]
-ML_STACK    = ["PyTorch", "HuggingFace", "OnnxRT", "TensorRT", "LlamaIndex", "Ollama"]
-DEPLOY      = ["FastAPI", "Docker", "Streamlit", "ONNX", "Edge/Embedded"]
-COMPILERS   = ["Custom ISA Design", "Op Fusion", "Graph Lowering", "Benchmark Automation"]
 ```
 
 ---
