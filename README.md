@@ -71,7 +71,7 @@ anuj = {
 
 | | Project | Description |
 |:---:|---|---|
-| <img src="https://img.shields.io/badge/AI-D97757?style=flat-square&logo=anthropic&logoColor=white" /> | **Infinity (Mark 4)** | Multi-tenant AI workspace rebuilt onto a new backend because the previous one had no notion of account ownership. Every piece of state belongs to exactly one account, enforced as an invariant and verified in CI against the built container image — closing the class of permission bug that leaks one user's data to another. |
+| <img src="https://img.shields.io/badge/AI-D97757?style=flat-square&logo=anthropic&logoColor=white" /> | **Infinity** | Multi-tenant AI workspace rebuilt onto a new backend because the previous one had no notion of account ownership. Every piece of state belongs to exactly one account, enforced as an invariant and verified in CI against the built container image — closing the class of permission bug that leaks one user's data to another. |
 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> | **llama.cpp — merged contribution** | Fixed a silent-failure bug in llama.cpp: the server now returns a proper HTTP error on invalid input instead of quietly ignoring the constraint. Restored a lost null check, added a regression test, reviewed and merged by the maintainers. |
 
 <br/>
